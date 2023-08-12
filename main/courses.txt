@@ -1,0 +1,9 @@
+           KWAME NKRUMAH UNIVERSITY OF SCIENCE AND TECHNOLOGY
+ COURSES                             CUT-OFFS
+ Electrical Engineering                 80
+ Computer Engineeering    	        75 
+ Mechanical Engineering 		70
+ Bio-Medical Engineering                65 
+ Industrial Engineering                 60
+ Agricultural Engineering               50
+		
